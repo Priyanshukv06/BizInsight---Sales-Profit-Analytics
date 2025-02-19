@@ -30,11 +30,4 @@ This project focuses on analyzing **sales and profit trends**, identifying **top
 
 ---
 
-## 📁 Project Structure  
 
-```bash
-├── data/                 # Dataset files
-├── analysis.ipynb        # Jupyter notebook for analysis
-├── visualizations/       # Saved charts and graphs
-├── insights.md           # Key insights and findings
-├── README.md             # Project documentation
